@@ -1,0 +1,26 @@
+// Color Variables
+$primary: #58e1c1;
+$light-blue: #51ddfc;
+$pink: #e4757a;
+$purple: #927bc1;
+$green: #63cc82;
+$orange: #fd7856;
+
+
+
+
+
+
+
+// Buttons
+$buttons: (
+        'default': $light-blue,
+        'error': $pink,
+        'info': $purple,
+        'success': $green,
+        'warning': $orange,
+);
+
+// Media Queries 
+$narrow: 768px;
+$wide: 1400px;
